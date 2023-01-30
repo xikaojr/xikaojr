@@ -23,14 +23,6 @@ Attention to detail and commitment to delivering high-quality, scalable and main
 Ability to prioritize and manage multiple projects and meet tight deadlines
 Passionate about technology and innovation, always seeking new challenges to enhance his skills and knowledge.
 
-## Here are some of my Github Stats.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xikaojr&count_private=true&show_icons=true&theme=github_dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xikaojr&theme=blueberry_duo&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xikaojr&layout=compac&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/xikaojr/xikaojr/blob/output/github-contribution-grid-snake.svg)
-
-
 ## Skills Stack
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg">
