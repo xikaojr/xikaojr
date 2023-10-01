@@ -1,3 +1,18 @@
+### Um salve 👋
+
+Cargo: Desenvolvedor Web Sênior
+
+Habilidades:
+
+Ampla experiência em programação PHP e desenvolvimento web Proficiente em HTML, CSS, JavaScript e outras tecnologias web Forte entendimento da arquitetura MVC, OOP e padrões de design de software Conhecimento de frameworks PHP populares, como Laravel e Zend Framework Experiência na integração de APIs e terceiros serviços de terceiros Familiaridade com design e gerenciamento de banco de dados, especialmente MySQL e PostgreSQL Fortes habilidades de depuração, teste e resolução de problemas Educação: Graduado no curso de Análise e Desenvolvimento de Sistemas com pós-graduação em Ciência de Dados
+
+Experiência: Mais de 10 anos de experiência em desenvolvimento web, com pelo menos 8 anos trabalhando com PHP
+
+Características pessoais:
+
+Fortes habilidades de comunicação e capacidade de trabalhar de forma eficaz em um ambiente de equipe Proativo, empreendedor, sempre disposto a aprender e manter-se atualizado com as tecnologias mais recentes Atenção aos detalhes e compromisso em fornecer código de alta qualidade, escalável e sustentável Capacidade de priorizar e gerenciar múltiplos projetos e cumprir prazos apertados. Apaixonado por tecnologia e inovação, sempre em busca de novos desafios para aprimorar suas habilidades e conhecimentos.
+
+
 ### Hi there 👋
 
 Title: Senior Web Developer
