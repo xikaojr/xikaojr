@@ -51,7 +51,6 @@ Passionate about technology and innovation, always seeking new challenges to enh
 <img align="center" alt="nodejs" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg">
 <img align="center" alt="mongodb" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg">
 <img align="center" alt="azure" height="30" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg">
-<img align="center" alt="amazon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="center" alt="bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="center" alt="docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
