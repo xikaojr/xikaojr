@@ -61,3 +61,4 @@ Passionate about technology and innovation, always seeking new challenges to enh
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xikaojr/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xikaojr/)
+[![youtube](https://img.shields.io/youtube/channel/subscribers/UCwC64OTtoBDembawIhVS8qQ)](https://youtube.com/xikaojr/)
